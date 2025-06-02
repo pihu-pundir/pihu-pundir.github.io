@@ -117,3 +117,8 @@ ul#taskList {
 li.completed .task-actions button:first-child {
     color: green;
 }
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
